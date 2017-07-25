@@ -2,7 +2,7 @@ language: csharp
 sudo: required
 dist: trusty
 mono: none
-dotnetcore: 1.1
+dotnetcore: 1.0.1
 
 solution: ExpressBase.Core.sln
 before_script:
