@@ -1,0 +1,17 @@
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Web.deps.json
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Web.runtimeconfig.json
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Web.runtimeconfig.dev.json
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Web.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Web.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Common.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Data.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Objects.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Security.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Objects.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Common.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Data.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\bin\MCD\Release\netcoreapp1.1\ExpressBase.Security.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\obj\MCD\Release\netcoreapp1.1\ExpressBase.Web.csprojResolveAssemblyReference.cache
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\obj\MCD\Release\netcoreapp1.1\ExpressBase.Web.AssemblyInfo.cs
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\obj\MCD\Release\netcoreapp1.1\ExpressBase.Web.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Web\obj\MCD\Release\netcoreapp1.1\ExpressBase.Web.pdb

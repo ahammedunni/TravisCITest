@@ -1,0 +1,51 @@
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Objects.deps.json
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Objects.dll
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Objects.pdb
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Common.dll
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Data.dll
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Security.dll
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Security.pdb
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Common.pdb
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Data.pdb
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/obj/Debug/netcoreapp1.1/ExpressBase.Objects.csprojResolveAssemblyReference.cache
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/obj/Debug/netcoreapp1.1/ExpressBase.Objects.AssemblyInfo.cs
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/obj/Debug/netcoreapp1.1/ExpressBase.Objects.dll
+C:/Users/USER/Desktop/New folder/ExpressBase.Core/ExpressBase.Objects/obj/Debug/netcoreapp1.1/ExpressBase.Objects.pdb
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Objects.deps.json
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Objects.dll
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Objects.pdb
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Common.dll
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Data.dll
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Security.dll
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Security.pdb
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Common.pdb
+/ExpressBase.Core/ExpressBase.Objects/bin/Debug/netcoreapp1.1/ExpressBase.Data.pdb
+/ExpressBase.Core/ExpressBase.Objects/obj/Debug/netcoreapp1.1/ExpressBase.Objects.AssemblyInfo.cs
+/ExpressBase.Core/ExpressBase.Objects/obj/Debug/netcoreapp1.1/ExpressBase.Objects.dll
+/ExpressBase.Core/ExpressBase.Objects/obj/Debug/netcoreapp1.1/ExpressBase.Objects.pdb
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Objects.deps.json
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Objects.dll
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Objects.pdb
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Common.dll
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Data.dll
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Security.dll
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Security.pdb
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Common.pdb
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Data.pdb
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\obj\Debug\netcoreapp1.1\ExpressBase.Objects.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\obj\Debug\netcoreapp1.1\ExpressBase.Objects.AssemblyInfo.cs
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\obj\Debug\netcoreapp1.1\ExpressBase.Objects.dll
+C:\Users\USER\Desktop\ExpressBase.Core\ExpressBase.Objects\obj\Debug\netcoreapp1.1\ExpressBase.Objects.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Objects.deps.json
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Objects.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Objects.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Common.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Data.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Security.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Security.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Common.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\bin\Debug\netcoreapp1.1\ExpressBase.Data.pdb
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\obj\Debug\netcoreapp1.1\ExpressBase.Objects.csprojResolveAssemblyReference.cache
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\obj\Debug\netcoreapp1.1\ExpressBase.Objects.AssemblyInfo.cs
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\obj\Debug\netcoreapp1.1\ExpressBase.Objects.dll
+F:\ExpressBase\Azure\ExpressBase.Core\ExpressBase.Objects\obj\Debug\netcoreapp1.1\ExpressBase.Objects.pdb
