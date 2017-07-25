@@ -13,7 +13,7 @@ namespace ExpressBase.Web2
         {
             var host = new WebHostBuilder()
                 .UseKestrel()
-                .UseIISIntegration()
+                .UseUrls("http://*:80")
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseStartup<Startup>()
                 .Build();
