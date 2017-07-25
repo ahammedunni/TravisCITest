@@ -4,7 +4,6 @@ dist: trusty
 mono: none
 dotnet: 1.0.0-preview2-1-003177
 
-solution: ./ExpressBase.Web/ExpressBase.Web.sln
 before_script:
   - chmod a+x ./build.sh
   - chmod a+x ./deploy.sh
