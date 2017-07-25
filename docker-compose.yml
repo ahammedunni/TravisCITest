@@ -6,9 +6,3 @@ services:
     build:
       context: ./ExpressBase.Web
       dockerfile: Dockerfile
-
-  expressbase.servicestack:
-    image: expressbase.servicestack
-    build:
-      context: ./ExpressBase.ServiceStack
-      dockerfile: Dockerfile
