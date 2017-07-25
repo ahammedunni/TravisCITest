@@ -2,7 +2,7 @@ language: csharp
 sudo: required
 dist: trusty
 mono: none
-dotnetcore: 1.1
+dotnet: 4.6.2
 install:
   - export DOTNET_CLI_TELEMETRY_OPTOUT=1
 
