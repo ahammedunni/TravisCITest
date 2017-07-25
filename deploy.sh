@@ -6,7 +6,7 @@ DOCKER_USERNAME=$1
 DOCKER_PASSWORD=$2
 
 # Create publish artifact
-dotnet publish -c Release src
+dotnet publish -c Release src ./ExpressBase.Web/ExpressBase.Web.csproj
 
 # Build the Docker images
 docker build -t ahammedunni/expressbase src/bin/Release/netcoreapp1.1/publish/.
