@@ -1,5 +1,5 @@
 
 #!/bin/bash
 set -ev
-dotnet restore ./ExpressBase.Core.sln
-dotnet build -c Release ./ExpressBase.Core.sln
+dotnet restore ./ExpressBase.Web/ExpressBase.csproj
+dotnet build -c Release ./ExpressBase.Web/ExpressBase.csproj
