@@ -1,8 +1,0 @@
-version: '2'
-
-services:
-  expressbase.web:
-    image: expressbase.web
-    build:
-      context: ./ExpressBase.Web
-      dockerfile: Dockerfile
