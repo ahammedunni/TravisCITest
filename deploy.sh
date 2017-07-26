@@ -9,7 +9,7 @@ DOCKER_PASSWORD=$3
 dotnet publish -c Release -o ./obj/Docker/publish ./ExpressBase.Web/ExpressBase.Web.csproj
 
 # Build the Docker images
-docker build -t ahammedunni/expressbaseweb:$TAG ./ExpressBase.Web/.
+docker build -t ahammedunni/expressbaseweb:$TAG .
 docker tag ahammedunni/expressbaseweb:$TAG ahammedunni/expressbaseweb:latest
 
 # Login to Docker Hub and upload images
