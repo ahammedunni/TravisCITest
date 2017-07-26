@@ -1,5 +1,6 @@
 FROM microsoft/aspnetcore:1.1
+ARG source
 WORKDIR /app
 EXPOSE 80
-COPY ./TravisCITest/ExpressBase.Web/bin/Release/netcoreapp1.1/ .
+COPY ${source:-obj/Docker/publish} .
 ENTRYPOINT ["dotnet", "ExpressBase.Web.dll"]
