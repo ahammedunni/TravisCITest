@@ -15,5 +15,5 @@ docker tag ahammedunni/expressbaseweb:$TAG ahammedunni/expressbase:latest
 # Login to Docker Hub and upload images
 docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
 
-docker push ahammedunni/expressbase:$TAG
+docker push ahammedunni/expressbaseweb:$TAG
 docker push ahammedunni/expressbaseweb:latest
